@@ -1,4 +1,5 @@
-{
+config: {
+	compliments: {
     "anytime" : [
 		"Você me deixa orgulhoso.",
 		"Eu gosto das suas ideias.",
@@ -113,5 +114,6 @@
         "It's a stormy night, don't be scared"
     ],
     "night_alt_cloudy_windy" : [
-    ]    
+    ]
+	}
 }
